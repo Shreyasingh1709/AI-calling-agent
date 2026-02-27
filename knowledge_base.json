@@ -1,0 +1,9 @@
+{
+  "company_name": "AI Automation Mentorship",
+  "purpose": "Inviting professionals to attend an AI-powered automation demo session.",
+  "tone": "Professional, polite, confident",
+  "faq": {
+    "What is this about?": "This is an AI-powered calling agent demonstration showcasing automation and prompt engineering.",
+    "Is this a sales call?": "No, this is an invitation to explore AI automation capabilities."
+  }
+}

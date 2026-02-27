@@ -1,0 +1,59 @@
+[
+    {
+        "phone_number": "+919876543210",
+        "timestamp": "2026-02-26 16:48:20.645499",
+        "script": "Hello,\n\nI'm reaching out from AI Automation Mentorship to invite you to our AI-powered automation demo session tomorrow. This is not a sales call, but an opportunity to explore the capabilities of AI in automation and prompt engineering. You'll experience firsthand how our technology can streamline your operations and improve efficiency. Join us and discover the future of automation. Thank you.",
+        "status": "Simulated Call Completed"
+    },
+    {
+        "phone_number": "+919812345678",
+        "timestamp": "2026-02-26 16:48:20.648311",
+        "script": "Hello,\n\nI'm reaching out from AI Automation Mentorship to invite you to our AI-powered automation demo session tomorrow. This is not a sales call, but an opportunity to explore the capabilities of AI in automation and prompt engineering. You'll experience firsthand how our technology can streamline your operations and improve efficiency. Join us and discover the future of automation. Thank you.",
+        "status": "Simulated Call Completed"
+    },
+    {
+        "phone_number": "+919900001234",
+        "timestamp": "2026-02-26 16:48:20.664985",
+        "script": "Hello,\n\nI'm reaching out from AI Automation Mentorship to invite you to our AI-powered automation demo session tomorrow. This is not a sales call, but an opportunity to explore the capabilities of AI in automation and prompt engineering. You'll experience firsthand how our technology can streamline your operations and improve efficiency. Join us and discover the future of automation. Thank you.",
+        "status": "Simulated Call Completed"
+    },
+    {
+        "phone_number": "+919876543210",
+        "timestamp": "2026-02-26 16:53:54.421965",
+        "script": "Hello,\n\nI'm reaching out from AI Automation Mentorship to invite you to our AI-powered automation demo session tomorrow. This is not a sales call, but an opportunity to experience the capabilities of AI in transforming communication and workflow efficiency. We'll showcase advanced automation and prompt engineering techniques that can significantly improve your business operations. Don't miss this chance to explore the future of AI integration. Looking forward to your positive response. Thank you.",
+        "status": "Simulated Call Completed"
+    },
+    {
+        "phone_number": "+919812345678",
+        "timestamp": "2026-02-26 16:53:54.421965",
+        "script": "Hello,\n\nI'm reaching out from AI Automation Mentorship to invite you to our AI-powered automation demo session tomorrow. This is not a sales call, but an opportunity to experience the capabilities of AI in transforming communication and workflow efficiency. We'll showcase advanced automation and prompt engineering techniques that can significantly improve your business operations. Don't miss this chance to explore the future of AI integration. Looking forward to your positive response. Thank you.",
+        "status": "Simulated Call Completed"
+    },
+    {
+        "phone_number": "+919900001234",
+        "timestamp": "2026-02-26 16:53:54.439135",
+        "script": "Hello,\n\nI'm reaching out from AI Automation Mentorship to invite you to our AI-powered automation demo session tomorrow. This is not a sales call, but an opportunity to experience the capabilities of AI in transforming communication and workflow efficiency. We'll showcase advanced automation and prompt engineering techniques that can significantly improve your business operations. Don't miss this chance to explore the future of AI integration. Looking forward to your positive response. Thank you.",
+        "status": "Simulated Call Completed"
+    },
+    {
+        "phone_number": "+919876543210",
+        "timestamp": "2026-02-26 23:53:46.866583",
+        "script": "Hello,\n\nI'm reaching out from AI Automation Mentorship to invite you to our AI-powered automation demo session tomorrow. This is not a sales call, but an opportunity to experience the capabilities of AI in transforming workflows. We'll demonstrate advanced automation and prompt engineering that can revolutionize your operations. Join us and discover how AI can streamline your processes, increase efficiency, and reduce costs. Looking forward to your positive response. Thank you.",
+        "status": "Simulated Call Completed",
+        "log_response": "Not Interested"
+    },
+    {
+        "phone_number": "+919812345678",
+        "timestamp": "2026-02-26 23:53:46.868673",
+        "script": "Hello,\n\nI'm reaching out from AI Automation Mentorship to invite you to our AI-powered automation demo session tomorrow. This is not a sales call, but an opportunity to experience the capabilities of AI in transforming workflows. We'll demonstrate advanced automation and prompt engineering that can revolutionize your operations. Join us and discover how AI can streamline your processes, increase efficiency, and reduce costs. Looking forward to your positive response. Thank you.",
+        "status": "Simulated Call Completed",
+        "log_response": "Interested"
+    },
+    {
+        "phone_number": "+919900001234",
+        "timestamp": "2026-02-26 23:53:46.883350",
+        "script": "Hello,\n\nI'm reaching out from AI Automation Mentorship to invite you to our AI-powered automation demo session tomorrow. This is not a sales call, but an opportunity to experience the capabilities of AI in transforming workflows. We'll demonstrate advanced automation and prompt engineering that can revolutionize your operations. Join us and discover how AI can streamline your processes, increase efficiency, and reduce costs. Looking forward to your positive response. Thank you.",
+        "status": "Simulated Call Completed",
+        "log_response": "Not Interested"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "campaign_id": "c14908d4-54d2-4e93-8e63-cd23283e33a5",
+        "campaign_name": "Test Campaign",
+        "purpose": "Promote our new AI automation service",
+        "tone": "Professional",
+        "voice": "female",
+        "numbers": [
+            "+919876543210",
+            "+919123456789"
+        ],
+        "script": "Hello, I'm reaching out from AI Automation Mentorship. I'd like to introduce our new AI automation service, designed to streamline your operations and enhance efficiency. This is not a sales call, but an invitation to discover how AI can transform your business. Our technology combines advanced automation with expert prompt engineering, enabling more precise and effective communication. Allow us to demonstrate our capabilities and show you the future of AI integration.",
+        "status": "draft",
+        "created_at": "2026-02-27 05:04:20.929657",
+        "call_logs": []
+    },
+    {
+        "campaign_id": "23d18708-8c67-4ece-8fe0-3ffa47b732a8",
+        "campaign_name": "Test Campaign",
+        "purpose": "Promote our new AI automation service",
+        "tone": "Professional",
+        "voice": "female",
+        "numbers": [
+            "+919876543210",
+            "+919123456789"
+        ],
+        "script": " Hello, I'm calling from AI Automation Mentorship. I'd like to introduce you to our groundbreaking new service: AI-powered automation for your business communications. This isn't a sales call, but an invitation to discover how our advanced AI can streamline your operations, enhance customer experiences, and reduce costs. Our technology excels in prompt engineering, ensuring natural, human-like conversations. Imagine a world where your systems handle calls efficiently, 24/7. Let's discuss how AI Automation Mentorship can elevate your business to the next level.",
+        "status": "draft",
+        "created_at": "2026-02-27 05:04:36.623363",
+        "call_logs": []
+    }
+]
